@@ -10,6 +10,7 @@ closeSpan.addEventListener("click", function (){
 productsFigure[0].addEventListener("click", function (){
 	console.log("click en figura 1");
 	modalDiv.style.display = "block";
+	// console.log();
 });
 productsFigure[1].addEventListener("click", function (){
 	console.log("click en figura 2");
