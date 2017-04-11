@@ -61,7 +61,7 @@ header {
 	padding: 70px 7px;
 }
 
-.text-services {
+.text-services, .text-work {
 	font-size: 35px;
 	letter-spacing: 2px;
 }
@@ -71,7 +71,28 @@ header {
 	width: 30%;
 	margin-top: 63px;
 }
+#work {
+	background-color:#fff;
+	text-align: center;
+	color: #000000;
+	padding: 70px 7px;
+}
 
+.img-work{
+	display: block;
+	margin-right: auto;
+  	margin-left: auto;
+}
+
+.img-product{
+	display: inline-block;
+	margin: 10px;
+	width: 30%;
+}
+
+.img-product img{
+	width: 100%;
+}
 /*Footer*/
 footer {
 	text-align: center;
