@@ -70,3 +70,11 @@ header {
 	width: 30%;
 	margin-top: 63px;
 }
+
+footer {
+	text-align: center;
+	height: 70px;
+	background: #373B47;
+	color: white;
+	padding-top: 7px;
+}
